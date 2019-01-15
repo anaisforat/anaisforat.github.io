@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7d3e4b2d676bd7bc425d6e29246992fe.js"
+  "/precache-manifest.08f2ff95bb898cc7524fe404a85b4df9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cait-alpha-js"});
