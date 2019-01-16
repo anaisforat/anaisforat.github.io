@@ -1,6 +1,6 @@
 {
-  "name": "cait-alpha-js",
-  "short_name": "cait-alpha-js",
+  "name": "CAIT, l'aventure version #",
+  "short_name": "CAIT",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
